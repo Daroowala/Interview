@@ -1,3 +1,10 @@
+//Ternary Operators (? , :)
+// let age = 25;
+// let result = age >18 ? "You are adult" : "You are not adult!!!"
+// console.log(result); // Output: You are adult
+
+
+
 // Template Literals
 // let obj = {
 //     name: "Rehan",
